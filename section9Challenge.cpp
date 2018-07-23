@@ -1,3 +1,12 @@
+/*
+	This program is decently filled with bugs and other annoyacnces. I'll try to keep it as documented as I can without being godly
+	annoying. 
+	
+	Also this has not been tried and tested. All written from memory into notepad++ and 
+
+*/
+
+
 #include <iostream>
 #include <numeric>
 #include <vector>
